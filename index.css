@@ -1,0 +1,41 @@
+.box {
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: white;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+	
+body {
+	font-family: verdana, sans-serif;
+	background-image: url(GincoTree.jpg);
+}
+
+.pic {
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+.personalinfo {
+	padding-top: 40px; 
+	margin-left: 400px;
+	padding-left: 20px;
+}
+
+h1 {
+	font-size: 50px;
+	background-color: #FF9933;
+}
+
+h2 {
+	padding-left: 20px;
+	background-color: #D1B2D1;
+}
+
+h3 {
+	padding-left: 20px;
+
+}
+
