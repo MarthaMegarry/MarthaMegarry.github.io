@@ -39,6 +39,7 @@ h1 {
 	background-color: #FF9933;
 	font-size: 50px;
 	margin-top: 20px;
+	margin-left: 400px;
 	padding: 0px 110px 0px 10px;
 	font-weight: bold;
 }
@@ -77,11 +78,8 @@ footer p {
 	text-align: center;
 }
 
-.personalinfo {
+header p {
 	margin-left: 400px;
-}
-
-.personalinfo p {
 	margin-top: 20px;
 	padding-left: 10px;
 }
@@ -107,4 +105,9 @@ section .codeweb:last-of-type img{
 
 section p {
 	font-style: italic;
+}
+
+.codeweb img {
+	width:200px;
+	height:150px;
 }
